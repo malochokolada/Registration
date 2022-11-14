@@ -1,0 +1,59 @@
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe.config
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\TimetableWindow.g.cs
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.cache
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.lref
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\TimetableWindow.baml
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.g.resources
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe.config
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\TimetableWindow.g.cs
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.cache
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.lref
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\TimetableWindow.baml
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.g.resources
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.cache
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow_MarkupCompile.lref
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe.config
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.exe
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\bin\Debug\RegistrationWindow.pdb
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.g.resources
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.Properties.Resources.resources
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\RegistrationWindow.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Pages\TimeTablePage.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Windows\TimetableWindow.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Pages\TimeTablePage.baml
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Windows\TimetableWindow.baml
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Pages\TeacherPage.g.cs
+C:\Users\admin\Desktop\Колледж\Практика\3 курс\My programms\RegistrationWindow-master\RegistrationWindow\obj\Debug\View\Pages\TeacherPage.baml

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RegistrationWindow.View.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,20 @@ namespace RegistrationWindow
         public TimetableWindow()
         {
             InitializeComponent();
+            MainFrame.Navigate(new TimeTablePage());
+
+        }
+
+        private void TimeTable_Click(object sender, RoutedEventArgs e)
+        {
+            
+               MainFrame.Navigate(new TimeTablePage());
+            
+        }
+
+        private void TeacherButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new TeacherPage());
         }
     }
 }

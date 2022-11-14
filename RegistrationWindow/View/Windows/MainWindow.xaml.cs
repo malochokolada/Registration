@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RegistrationWindow.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,20 +30,13 @@ namespace RegistrationWindow
 
         private void signInButton(object sender, RoutedEventArgs e)
         {
-            string Login,
-                Password;
-            Login = loginBox.Text;
-            Password = passwordBox.Text;
-            User user = new User();
-            bool result = user.VerificationUser(Login, Password);
-            if (result == true)
-            {
-                TimetableWindow Ttw = new TimetableWindow();
-                Ttw.Show();
-                this.Close();
-            }
-            else
-                MessageBox.Show("Повторите попытку.", "Ошибка авторизаци.", MessageBoxButton.OK , MessageBoxImage.Error);
+           
+
+        }
+
+        private void passwordBox_PasswordChanged(object sender, RoutedEventArgs e)
+        {
+            (DataContext as MainWindowViewModel).UserLoging.Password = passwordBox.Password;
         }
     }
 }

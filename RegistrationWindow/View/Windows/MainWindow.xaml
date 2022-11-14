@@ -1,11 +1,15 @@
-﻿<Window x:Class="RegistrationWindow.MainWindow"
+﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RegistrationWindow"
+        xmlns:ViewModel="clr-namespace:RegistrationWindow.ViewModel" x:Class="RegistrationWindow.MainWindow"
         mc:Ignorable="d"
-        Title="Registration window" Height="500" Width="600">
+        Title="Авторизация" Height="400" Width="400">
+    <Window.DataContext>
+        <ViewModel:MainWindowViewModel/>
+    </Window.DataContext>
     <Grid >
         <Grid.RowDefinitions>
             <RowDefinition />
@@ -37,13 +41,13 @@
                        VerticalAlignment="Center"/>
 
             <TextBox x:Name="loginBox"
-                Width="200"
+                     Width="200"
                      HorizontalAlignment="Center"
                      Grid.Column="1"
                      VerticalAlignment="Center"
                      FontSize="15"
-                               Margin="10,0,0,0">
-            </TextBox>
+                     Margin="10,0,0,0"
+                     Text="{Binding UserLoging.Login}"/>
 
             <TextBlock Text="Пароль:"
                        FontSize=" 20"
@@ -52,25 +56,37 @@
                        HorizontalAlignment="Left"
                        VerticalAlignment="Center"/>
 
-            <TextBox x:Name="passwordBox"
-                Width="200"
+            <PasswordBox x:Name="passwordBox"
+                     Width="200"
                      HorizontalAlignment="Center"
                      Grid.Column="1"
                      Grid.Row="2"
                      VerticalAlignment="Center"
                      FontSize="15"
-                               Margin="10,0,0,0">
-            </TextBox>
+                     Margin="10,0,0,0"
+                         PasswordChanged="passwordBox_PasswordChanged"/>
 
         </Grid>
         <Grid Grid.Row="2">
-            <Button Click="signInButton"
+            <Button 
                 Content="Войти" 
+                Margin="20"
+                Background="Bisque"
+                FontSize="20"
+                VerticalAlignment="Top"
+                x:Name="enterDataButton"
+                Command="{Binding ValidationCommand}"/>
+
+            <Button 
+                Content="Выйти" 
                 Margin="40"
                 Background="Bisque"
-                FontSize="20" />
-            
+                VerticalAlignment="Bottom"
+                FontSize="20"
+                x:Name="exitDataButton"
+                Command="{Binding ExitCommand}"/>
+
         </Grid>
 
     </Grid>
-</Window>
+</Window> 

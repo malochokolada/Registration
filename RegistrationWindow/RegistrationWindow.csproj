@@ -55,11 +55,28 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="TimetableWindow.xaml.cs">
+    <Compile Include="Command\RelativeCommand.cs" />
+    <Compile Include="Core\ReadFiles.cs" />
+    <Compile Include="Model\Lessons.cs" />
+    <Compile Include="Model\Teacher.cs" />
+    <Compile Include="ViewModel\TimetablePageViewModel.cs" />
+    <Compile Include="ViewModel\TimeTableViewModel.cs" />
+    <Compile Include="View\Pages\TeacherPage.xaml.cs">
+      <DependentUpon>TeacherPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Pages\TimeTablePage.xaml.cs">
+      <DependentUpon>TimeTablePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Windows\TimetableWindow.xaml.cs">
       <DependentUpon>TimetableWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="User.cs" />
-    <Page Include="MainWindow.xaml">
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Core\Validation.cs" />
+    <Page Include="View\Pages\TeacherPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Windows\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -67,11 +84,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="ViewModel\BaseViewModel.cs" />
+    <Compile Include="ViewModel\MainWindowViewModel.cs" />
+    <Compile Include="View\Windows\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="TimetableWindow.xaml">
+    <Page Include="View\Pages\TimeTablePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Windows\TimetableWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -101,6 +124,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Styles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Files\Lesson.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Files\Teachers.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

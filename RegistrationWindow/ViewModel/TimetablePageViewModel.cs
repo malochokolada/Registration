@@ -35,10 +35,10 @@ namespace RegistrationWindow.ViewModel
             }
         }
 
-        public void FileReader()
+        public async void FileReader()
         {
-            Lessons = ReadFiles.ReadFilesOfLessons();
-            TeachersList = ReadFiles.ReadFilesOfTeaher();
+            Lessons = await ReadFiles.ReadFilesOfLessons();
+            TeachersList = await ReadFiles.ReadFilesOfTeaher();
         }
 
         public  ObservableCollection<string> LessonsInfo

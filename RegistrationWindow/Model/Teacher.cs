@@ -43,7 +43,7 @@ namespace RegistrationWindow.Model
             set => _password = value;
         }
 
-        public string Infofmation
+        public string Information
         {
             get => _firstName + " " + _lastName;
         }

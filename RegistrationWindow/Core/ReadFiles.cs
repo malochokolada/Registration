@@ -11,13 +11,14 @@ namespace RegistrationWindow.Core
 {
     public static class ReadFiles
     {
-        public static ObservableCollection<Teacher> ReadFilesOfTeaher()
+        public async static Task <ObservableCollection<Teacher>> ReadFilesOfTeaher()
         {
             var listTeacher = new ObservableCollection<Teacher>();
 
             using (StreamReader streamReader = new StreamReader(@"..\..\files\Teachers.txt"))
             {
-                foreach (var item in streamReader.ReadToEnd().Split('\n'))
+                string asyncText = await streamReader.ReadToEndAsync();
+                foreach (var item in asyncText.Split('\n'))
                 {
                     var arrayStrings = item.Split(',');
                     if (arrayStrings[0] != "ID")
@@ -38,12 +39,13 @@ namespace RegistrationWindow.Core
 
         }
 
-        public static ObservableCollection<Lessons> ReadFilesOfLessons()
+        public async static Task< ObservableCollection<Lessons>> ReadFilesOfLessons()
         {
             var listLessons = new ObservableCollection<Lessons>();
             using (StreamReader streamReader = new StreamReader(@"..\..\files\Lesson.txt"))
             {
-                foreach (var item in streamReader.ReadToEnd().Split('\n'))
+                string asyncText = await streamReader.ReadToEndAsync();
+                foreach (var item in asyncText.Split('\n'))
                 {
                     var arrayString = item.Split('?');
                     if (arrayString[0] != "ID")
